@@ -6,7 +6,7 @@
 /* This program asks the user for the radius and
 then displays the area and circumference using pi in cm (and in two decimal places). */
 
-// Include stream, manip, and math modules.
+// Include stream, manip, and math modules for functionalities.
 #include <iostream>
 #include <iomanip>
 #include <cmath>
