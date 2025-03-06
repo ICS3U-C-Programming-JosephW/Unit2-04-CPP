@@ -1,12 +1,12 @@
 // Copyright (c) 2025. Joseph Wondimagnehu. All rights reserved.
 //
 // Created by: Joseph Wondimagnehu
-// Date: Mar. 4, 2025
+// Date: Mar. 6, 2025
 
 /* This program asks the user for the radius and
 then displays the area and circumference using pi in cm (and in two decimal places). */
 
-// Include stream, manip, and math modules for functionalities.
+// Include stream, manip, and math libraries.
 #include <iostream>
 #include <iomanip>
 #include <cmath>
